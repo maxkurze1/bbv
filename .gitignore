@@ -9,3 +9,5 @@
 .*.cache
 Makefile.coq.all.conf
 Makefile.coq.all
+/result
+.direnv/
